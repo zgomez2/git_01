@@ -18,7 +18,7 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
-Nature’s first green is gold,  
+Nature’s first green is gold,   
 Her hardest hue to hold.  
 Her early leaf’s a flower;  
 But only so an hour.  
